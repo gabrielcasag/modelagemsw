@@ -19,7 +19,20 @@ export class HomePage {
 
   onCalculate() {
     const imc = this.weight / (this.height * this.height);
-    this.showMessage(`IMC = ${imc.toFixed(2)}`);
+    var imcClassification = "";
+
+    if ( imc < 18.5 )
+      imcClassification = "Magreza";
+    else if ( imc <= 24.9 )
+      imcClassification = "Normal";
+    else if ( imc <= 29.9)
+      imcClassification = "Sobrepeso, obesidade grau I";
+    else if ( imc <= 39.9)
+      imcClassification = "Obesidade grau II";
+    else
+      imcClassification = "Obesidade grau III"
+
+    this.showMessage(`Seu IMC é de ${imc.toFixed(2)} classificado como: ${imcClassification}`);
   }
 
   async showMessage(msg: string) {
@@ -31,7 +44,7 @@ export class HomePage {
     const toast = await this.toastController.create(
       {
         message: msg,
-        color: 'light',
+        color: 'tertiary',
         buttons: [
           {
             icon: 'close'
