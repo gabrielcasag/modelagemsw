@@ -16,4 +16,10 @@ Para abrir a aplicação, execute o comando:
 
 Enjoy!
 
+# Visualize em ambiente de produção da Vercel: 
+
+Em *environments* na barra lateral direita ou : 
+https://modelagemsw-q509tmrry-gabrielcasag.vercel.app/home
+
+
 Author > https://github.com/gcc132-2020-2/imc-calculator
