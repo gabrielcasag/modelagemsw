@@ -15,3 +15,5 @@ Para abrir a aplicação, execute o comando:
 `ionic serve`
 
 Enjoy!
+
+Author > https://github.com/gcc132-2020-2/imc-calculator
