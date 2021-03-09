@@ -12,6 +12,7 @@ console.log("README");
   3. Requisitos e Modelagem de *Software*
   4. Arquitetura de *Software*
   5. Controle de versões com *Git* e **GitHub**
+  6. Implementação de *Software* coma **IONIC**
 
 ### Links úteis
 
@@ -20,6 +21,8 @@ console.log("README");
 - [UFLA](https://www.ufla.br)
 
 - [GitHub Docs](https://docs.github.com/pt)
+
+- [IONIC](https://ionicframework.com/)
 
 
 ### Imagens
