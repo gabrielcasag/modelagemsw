@@ -1,6 +1,7 @@
 ## Trabalho de Modelagem de Software
 
 Um app para consulta de previsões do tempo, utilizando a API do [OpenWeather](https://openweathermap.org/api)
+desenvolvido durante a disciplina de Modelagem de Software.
 
 ## Como executar localmente?
 
@@ -26,3 +27,11 @@ export const OPEN_WEATHER_CONFIG = {
 
 `ionic serve` ou
 `npm run start`
+
+## Vídeo de apresentação
+
+- [Vídeo](https://drive.google.com/file/d/1fV8dpD2Bq7T7OOOB13I3JfZHlXImfQoN/view?usp=sharing)
+
+## Integrantes
+
+- apenas eu @gabrielcasag 🤠
