@@ -32,6 +32,16 @@ export const OPEN_WEATHER_CONFIG = {
 
 - [Vídeo](https://drive.google.com/file/d/1fV8dpD2Bq7T7OOOB13I3JfZHlXImfQoN/view?usp=sharing)
 
+```
+  Obs: eu tentei fazer em 5 minutos, mas esse foi o melhor tempo que consegui, me desculpe! 🤐
+  Sugiro reproduzir na velocidade 1.25x
+```
+
 ## Integrantes
 
 - apenas eu @gabrielcasag 🤠
+
+## Ferramentas utilizadas
+
+- [Ionic Storage](https://ionicframework.com/docs/v3/storage/)
+- [OpenWeather](https://openweathermap.org/api)
